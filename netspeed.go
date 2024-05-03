@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.intuit.com/gdanko/netspeed/cmd"
+	"github.intuit.com/gdanko/netspeed2/cmd"
 )
 
 func main() {
